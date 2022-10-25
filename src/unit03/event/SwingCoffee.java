@@ -17,7 +17,7 @@ public class SwingCoffee extends JFrame implements ItemListener{
 	
 	JTextArea ta = new JTextArea();
 	JScrollPane sp = new JScrollPane(ta);
-	//주석
+	//주석ㅌㅌ
 	
 	SwingCoffee(){
 		
